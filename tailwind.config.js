@@ -8,8 +8,8 @@ module.exports = {
   theme: {
     extend: {
       colors: {
-        background: "var(--background)",
-        foreground: "var(--foreground)",
+        sunglow: "rgba(253, 195, 57, 1)", // Custom Sunglow color (without alpha)
+        popup: "rgba(6,42,53,255)",
       },
     },
   },
